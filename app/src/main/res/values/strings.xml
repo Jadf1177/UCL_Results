@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">UCL_Results</string>
+    <string name="navigation_tabs">Navigation tabs</string>
+    <string-array name="cl_facts">
+        <item>🎉 2020 Final: Bayern Munich beat PSG 1–0 in Lisbon</item>
+        <item>⚽ Top Scorer: Robert Lewandowski (15 goals)</item>
+        <item>🏆 This was Bayern\'s 6th Champions League title</item>
+        <item>🌟 Tournament Format Changed Due to COVID-19</item>
+        <item>🔥 Fastest Goal: Serge Gnabry (4 minutes vs Chelsea)</item>
+        <item>👕 Unique Feature: All knockout matches played in Portugal</item>
+        <item>📈 Record: First team to win all group matches (Bayern)</item>
+        <item>🥇 Bayern Munich became the first team in history to win the Champions League with a perfect record (11 wins in 11 games)</item>
+        <item>🔄 The tournament was suspended for 5 months due to the COVID-19 pandemic before resuming in August 2020</item>
+        <item>🏟️ The quarter-finals, semi-finals, and final were played as single-leg ties at neutral venues in Lisbon</item>
+        <item>⚖️ Five substitutions per team were allowed due to COVID-19 concerns</item>
+        <item>🇩🇪 Bayern scored 43 goals throughout the tournament, a record for a Champions League campaign</item>
+        <item>🤯 Bayern\'s 8-2 win against Barcelona in the quarter-finals was one of the most shocking results in Champions League history</item>
+        <item>🧤 Manuel Neuer kept 6 clean sheets during the tournament</item>
+        <item>🔴 This was the first Champions League final without spectators in the stadium</item>
+        <item>👑 Thomas Müller set a record with 21 Champions League assists for Bayern Munich</item>
+        <item>🌍 The 2020 final was the first all-German coaching final with Hansi Flick and Thomas Tuchel</item>
+        <item>🥅 Bayern won their second treble (Bundesliga, German Cup, Champions League) in 2019-20</item>
+    </string-array>
+
+    <!-- New strings -->
+    <string name="results_table_title">Results Table</string>
+    <string name="header_team">Team</string>
+    <string name="header_goals">Goals</string>
+    <string name="header_wins">Wins</string>
+    <string name="header_draws">Draws</string>
+    <string name="header_losses">Losses</string>
+    <string name="header_points">Points</string>
+    <string name="back_button">Back</string>
+    <string name="search_title">Search Matches</string>
+    <string name="select_team">Select Team:</string>
+    <string name="search_button">Search</string>
+    <string name="no_results">No matches found for this team</string>
+</resources>
